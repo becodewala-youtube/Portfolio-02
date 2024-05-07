@@ -1,5 +1,3 @@
-### Click below link to see live demo for our project🔗
-https://vikashkumarportfolio.netlify.app/
 
 
 ## **Click on below image to watch tutorial** 👇
